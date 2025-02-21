@@ -1,3 +1,4 @@
+<h1>hola mundo</h1>
 # Loteria
 Uso de HTML/CCS/JavaScript para desarrollo de una loteria (Proyecto escolar)
 
